@@ -1,0 +1,355 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <g class="BUSBAR_SECTION id95_1_46_1" id="id95_1_46_1" transform="translate(30.0,310.0)">
+            <line y2="0" x1="0" x2="180.0" y1="0"/>
+            <text x="-5.0" font-size="8" y="-5.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="1.1_NW_LABEL">1.1</text>
+        </g>
+        <g class="BUSBAR_SECTION id95_1_46_2" id="id95_1_46_2" transform="translate(280.0,310.0)">
+            <line y2="0" x1="0" x2="80.0" y1="0"/>
+            <text x="-5.0" font-size="8" y="-5.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="1.2_NW_LABEL">1.2</text>
+        </g>
+        <g class="BUSBAR_SECTION id95_2_46_1" id="id95_2_46_1" transform="translate(30.0,335.0)">
+            <line y2="0" x1="0" x2="180.0" y1="0"/>
+            <text x="-5.0" font-size="8" y="-5.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="2.1_NW_LABEL">2.1</text>
+        </g>
+        <g class="BUSBAR_SECTION id95_2_46_2" id="id95_2_46_2" transform="translate(280.0,335.0)">
+            <line y2="0" x1="0" x2="80.0" y1="0"/>
+            <text x="-5.0" font-size="8" y="-5.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="2.2_NW_LABEL">2.2</text>
+        </g>
+        <g class="LINE idB_46_CO6L61SUBSTATION_95_TWO" id="idB_46_CO6L61SUBSTATION_95_TWO" transform="translate(345.0,615.0)">
+            <text x="-5.0" font-size="8" y="13.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="B.CO6L61SUBSTATION_TWO_S_LABEL">PARIS  </text>
+        </g>
+        <g class="LINE idECHINL61SUBSTATION_95_TWO" id="idECHINL61SUBSTATION_95_TWO" transform="translate(195.0,30.0)">
+            <text x="-5.0" font-size="8" y="-5.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="ECHINL61SUBSTATION_TWO_N_LABEL">AMSTERDAM  </text>
+        </g>
+        <g class="TWO_WINDINGS_TRANSFORMER idSUBSTATIONY641_95_TWO" id="idSUBSTATIONY641_95_TWO" transform="translate(138.5,611.0)">
+    <circle r="4" id="idSUBSTATIONY641_95_TWO_TWO_WINDINGS_TRANSFORMER-WINDING1" cx="4" cy="4" stroke="rgb(34, 139, 34)"/>
+
+    <circle r="4" id="idSUBSTATIONY641_95_TWO_TWO_WINDINGS_TRANSFORMER-WINDING2" cx="9" cy="4" stroke="rgb(204, 85, 0)"/>
+<text x="-5.0" font-size="8" y="21.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="SUBSTATIONY641_TWO_S_LABEL">TR_1   </text>
+        </g>
+        <g class="TWO_WINDINGS_TRANSFORMER idSUBSTATIONY642_95_TWO" id="idSUBSTATIONY642_95_TWO" transform="translate(288.5,611.0)">
+    <circle r="4" id="idSUBSTATIONY642_95_TWO_TWO_WINDINGS_TRANSFORMER-WINDING1" cx="4" cy="4" stroke="rgb(34, 139, 34)"/>
+
+    <circle r="4" id="idSUBSTATIONY642_95_TWO_TWO_WINDINGS_TRANSFORMER-WINDING2" cx="9" cy="4" stroke="rgb(204, 85, 0)"/>
+<text x="-5.0" font-size="8" y="21.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="SUBSTATIONY642_TWO_S_LABEL">TR_2   </text>
+        </g>
+        <g class="NODE idFICT_95_95_10" id="idFICT_95_95_10" transform="translate(141.0,361.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g class="NODE idFICT_95_95_8" id="idFICT_95_95_8" transform="translate(191.0,276.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g class="NODE idFICT_95_95_12" id="idFICT_95_95_12" transform="translate(291.0,361.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g class="NODE idFICT_95_95_4" id="idFICT_95_95_4" transform="translate(341.0,361.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g class="NODE idFICT_95_95_95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_1Fictif" id="idFICT_95_95_95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_1Fictif" transform="matrix(0.0,1.0,-1.0,0.0,49.0,266.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g class="NODE idFICT_95_95_95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_2Fictif" id="idFICT_95_95_95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_2Fictif" transform="matrix(0.0,1.0,-1.0,0.0,99.0,266.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g class="NODE idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fNode0" id="idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fNode0" transform="matrix(0.0,1.0,-1.0,0.0,224.0,306.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g class="NODE idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fNode1" id="idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fNode1" transform="matrix(0.0,1.0,-1.0,0.0,274.0,306.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g class="NODE idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fNode0" id="idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fNode0" transform="matrix(0.0,1.0,-1.0,0.0,224.0,331.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g class="NODE idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fNode1" id="idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fNode1" transform="matrix(0.0,1.0,-1.0,0.0,274.0,331.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <polyline class="wire wire_SUBSTATIONP6" points="145.0,310.0,145.0,310.0" id="id95_Wire0"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="145.0,310.0,145.0,365.0" id="id95_Wire1"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="195.0,310.0,195.0,310.0" id="id95_Wire2"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="195.0,310.0,195.0,280.0" id="id95_Wire3"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="45.0,310.0,45.0,310.0" id="id95_Wire4"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="295.0,310.0,295.0,310.0" id="id95_Wire5"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="295.0,310.0,295.0,365.0" id="id95_Wire6"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="345.0,310.0,345.0,310.0" id="id95_Wire7"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="345.0,310.0,345.0,365.0" id="id95_Wire8"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="95.0,335.0,95.0,335.0" id="id95_Wire9"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="145.0,335.0,145.0,335.0" id="id95_Wire10"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="145.0,335.0,145.0,365.0" id="id95_Wire11"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="195.0,335.0,195.0,335.0" id="id95_Wire12"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="195.0,335.0,195.0,280.0" id="id95_Wire13"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="295.0,335.0,295.0,335.0" id="id95_Wire14"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="295.0,335.0,295.0,365.0" id="id95_Wire15"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="345.0,335.0,345.0,335.0" id="id95_Wire16"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="345.0,335.0,345.0,365.0" id="id95_Wire17"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="345.0,365.0,345.0,480.0" id="id95_Wire18"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="345.0,500.0,345.0,615.0" id="id95_Wire19"/>
+        <g class="ARROW1_B_46_CO6L61SUBSTATION_95_TWO_DOWN" id="id95_Wire19_ARROW1" transform="matrix(1.0,0.0,-0.0,1.0,340.0,515.0)">
+     <g class="arrow-up" id="id95_Wire19_ARROW1_ARROW-arrow-up">
+        <polygon points="5,0 10,10 0,10"/>
+     </g>
+     <g class="arrow-down" id="id95_Wire19_ARROW1_ARROW-arrow-down">
+        <polygon points="0,0 10,0 5,10"/>
+     </g>
+<text x="15.0" font-size="8" y="9.0" class="component-label" font-family="Verdana" transform="rotate(0,0,0)">-17</text>
+        </g>
+        <g class="ARROW2_B_46_CO6L61SUBSTATION_95_TWO_DOWN" id="id95_Wire19_ARROW2" transform="matrix(1.0,0.0,-0.0,1.0,340.0,535.0)">
+     <g class="arrow-up" id="id95_Wire19_ARROW2_ARROW-arrow-up">
+        <polygon points="5,0 10,10 0,10"/>
+     </g>
+     <g class="arrow-down" id="id95_Wire19_ARROW2_ARROW-arrow-down">
+        <polygon points="0,0 10,0 5,10"/>
+     </g>
+<text x="15.0" font-size="8" y="9.0" class="component-label" font-family="Verdana" transform="rotate(0,0,0)">-42</text>
+        </g>
+        <polyline class="wire wire_SUBSTATIONP6" points="195.0,280.0,195.0,165.0" id="id95_Wire20"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="195.0,145.0,195.0,30.0" id="id95_Wire21"/>
+        <g class="ARROW1_ECHINL61SUBSTATION_95_TWO_DOWN" id="id95_Wire21_ARROW1" transform="matrix(1.0,-0.0,0.0,1.0,190.0,120.0)">
+     <g class="arrow-up" id="id95_Wire21_ARROW1_ARROW-arrow-up" transform="rotate(180.0,5.0,5.0)">
+        <polygon points="5,0 10,10 0,10"/>
+     </g>
+     <g class="arrow-down" id="id95_Wire21_ARROW1_ARROW-arrow-down" transform="rotate(180.0,5.0,5.0)">
+        <polygon points="0,0 10,0 5,10"/>
+     </g>
+<text x="15.0" font-size="8" y="9.0" class="component-label" font-family="Verdana" transform="rotate(0,0,0)">-104</text>
+        </g>
+        <g class="ARROW2_ECHINL61SUBSTATION_95_TWO_UP" id="id95_Wire21_ARROW2" transform="matrix(1.0,-0.0,0.0,1.0,190.0,100.0)">
+     <g class="arrow-up" id="id95_Wire21_ARROW2_ARROW-arrow-up" transform="rotate(180.0,5.0,5.0)">
+        <polygon points="5,0 10,10 0,10"/>
+     </g>
+     <g class="arrow-down" id="id95_Wire21_ARROW2_ARROW-arrow-down" transform="rotate(180.0,5.0,5.0)">
+        <polygon points="0,0 10,0 5,10"/>
+     </g>
+<text x="15.0" font-size="8" y="9.0" class="component-label" font-family="Verdana" transform="rotate(0,0,0)">12</text>
+        </g>
+        <polyline class="wire wire_SUBSTATIONP6" points="145.0,365.0,145.0,480.0" id="id95_Wire22"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="145.0,500.0,145.0,611.0" id="id95_Wire23"/>
+        <g class="ARROW1_SUBSTATIONY641_95_TWO_UP" id="id95_Wire23_ARROW1" transform="matrix(1.0,0.0,-0.0,1.0,140.0,515.0)">
+     <g class="arrow-up" id="id95_Wire23_ARROW1_ARROW-arrow-up" stroke="rgb(204, 85, 0)">
+        <polygon points="5,0 10,10 0,10"/>
+     </g>
+     <g class="arrow-down" id="id95_Wire23_ARROW1_ARROW-arrow-down" stroke="rgb(204, 85, 0)">
+        <polygon points="0,0 10,0 5,10"/>
+     </g>
+<text x="15.0" font-size="8" y="9.0" class="component-label" font-family="Verdana" transform="rotate(0,0,0)">60</text>
+        </g>
+        <g class="ARROW2_SUBSTATIONY641_95_TWO_UP" id="id95_Wire23_ARROW2" transform="matrix(1.0,0.0,-0.0,1.0,140.0,535.0)">
+     <g class="arrow-up" id="id95_Wire23_ARROW2_ARROW-arrow-up" stroke="rgb(204, 85, 0)">
+        <polygon points="5,0 10,10 0,10"/>
+     </g>
+     <g class="arrow-down" id="id95_Wire23_ARROW2_ARROW-arrow-down" stroke="rgb(204, 85, 0)">
+        <polygon points="0,0 10,0 5,10"/>
+     </g>
+<text x="15.0" font-size="8" y="9.0" class="component-label" font-family="Verdana" transform="rotate(0,0,0)">21</text>
+        </g>
+        <polyline class="wire wire_SUBSTATIONP6" points="295.0,365.0,295.0,480.0" id="id95_Wire24"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="295.0,500.0,295.0,611.0" id="id95_Wire25"/>
+        <g class="ARROW1_SUBSTATIONY642_95_TWO_UP" id="id95_Wire25_ARROW1" transform="matrix(1.0,0.0,-0.0,1.0,290.0,515.0)">
+     <g class="arrow-up" id="id95_Wire25_ARROW1_ARROW-arrow-up" stroke="rgb(204, 85, 0)">
+        <polygon points="5,0 10,10 0,10"/>
+     </g>
+     <g class="arrow-down" id="id95_Wire25_ARROW1_ARROW-arrow-down" stroke="rgb(204, 85, 0)">
+        <polygon points="0,0 10,0 5,10"/>
+     </g>
+<text x="15.0" font-size="8" y="9.0" class="component-label" font-family="Verdana" transform="rotate(0,0,0)">61</text>
+        </g>
+        <g class="ARROW2_SUBSTATIONY642_95_TWO_UP" id="id95_Wire25_ARROW2" transform="matrix(1.0,0.0,-0.0,1.0,290.0,535.0)">
+     <g class="arrow-up" id="id95_Wire25_ARROW2_ARROW-arrow-up" stroke="rgb(204, 85, 0)">
+        <polygon points="5,0 10,10 0,10"/>
+     </g>
+     <g class="arrow-down" id="id95_Wire25_ARROW2_ARROW-arrow-down" stroke="rgb(204, 85, 0)">
+        <polygon points="0,0 10,0 5,10"/>
+     </g>
+<text x="15.0" font-size="8" y="9.0" class="component-label" font-family="Verdana" transform="rotate(0,0,0)">9</text>
+        </g>
+        <polyline class="wire wire_SUBSTATIONP6" points="60.0,270.0,45.0,270.0" id="id95_Wire26"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="45.0,310.0,45.0,270.0" id="id95_Wire27"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="80.0,270.0,95.0,270.0" id="id95_Wire28"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="95.0,335.0,95.0,270.0" id="id95_Wire29"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="210.0,310.0,220.0,310.0" id="id95_Wire30"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="220.0,310.0,220.0,310.0" id="id95_Wire31"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="220.0,310.0,245.0,310.0" id="id95_Wire32"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="280.0,310.0,270.0,310.0" id="id95_Wire33"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="270.0,310.0,270.0,310.0" id="id95_Wire34"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="270.0,310.0,245.0,310.0" id="id95_Wire35"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="210.0,335.0,220.0,335.0" id="id95_Wire36"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="220.0,335.0,220.0,335.0" id="id95_Wire37"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="220.0,335.0,245.0,335.0" id="id95_Wire38"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="280.0,335.0,270.0,335.0" id="id95_Wire39"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="270.0,335.0,270.0,335.0" id="id95_Wire40"/>
+        <polyline class="wire wire_SUBSTATIONP6" points="270.0,335.0,245.0,335.0" id="id95_Wire41"/>
+        <g class="DISCONNECTOR id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_SA_46_1" id="id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_SA_46_1" transform="translate(141.0,306.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_SA_46_1_DISCONNECTOR-closed">
+        <line y2="8" x1="0" x2="8" y1="0"/>
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_SA_46_1_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+</g>
+        <g class="DISCONNECTOR id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_SA_46_1" id="id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_SA_46_1" transform="translate(191.0,306.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_SA_46_1_DISCONNECTOR-closed">
+        <line y2="8" x1="0" x2="8" y1="0"/>
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_SA_46_1_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+</g>
+        <g class="DISCONNECTOR id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12" id="id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12" transform="translate(241.0,306.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12_DISCONNECTOR-closed">
+        <line y2="8" x1="0" x2="8" y1="0"/>
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+</g>
+        <g class="DISCONNECTOR id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_1" id="id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_1" transform="translate(41.0,306.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_1_DISCONNECTOR-closed">
+        <line y2="8" x1="0" x2="8" y1="0"/>
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_1_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+</g>
+        <g class="DISCONNECTOR id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_SA_46_1" id="id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_SA_46_1" transform="translate(291.0,306.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_SA_46_1_DISCONNECTOR-closed">
+        <line y2="8" x1="0" x2="8" y1="0"/>
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_SA_46_1_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+</g>
+        <g class="DISCONNECTOR id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_SA_46_1" id="id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_SA_46_1" transform="translate(341.0,306.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_SA_46_1_DISCONNECTOR-closed">
+        <line y2="8" x1="0" x2="8" y1="0"/>
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_SA_46_1_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+</g>
+        <g class="DISCONNECTOR id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_2" id="id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_2" transform="translate(91.0,331.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_2_DISCONNECTOR-closed">
+        <line y2="8" x1="0" x2="8" y1="0"/>
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_2_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+</g>
+        <g class="DISCONNECTOR id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_SA_46_2" id="id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_SA_46_2" transform="translate(141.0,331.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_SA_46_2_DISCONNECTOR-closed">
+        <line y2="8" x1="0" x2="8" y1="0"/>
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_SA_46_2_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+</g>
+        <g class="DISCONNECTOR id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_SA_46_2" id="id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_SA_46_2" transform="translate(191.0,331.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_SA_46_2_DISCONNECTOR-closed">
+        <line y2="8" x1="0" x2="8" y1="0"/>
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_SA_46_2_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+</g>
+        <g class="DISCONNECTOR id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12" id="id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12" transform="translate(241.0,331.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12_DISCONNECTOR-closed">
+        <line y2="8" x1="0" x2="8" y1="0"/>
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+</g>
+        <g class="DISCONNECTOR id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_SA_46_2" id="id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_SA_46_2" transform="translate(291.0,331.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_SA_46_2_DISCONNECTOR-closed">
+        <line y2="8" x1="0" x2="8" y1="0"/>
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_SA_46_2_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+</g>
+        <g class="DISCONNECTOR id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_SA_46_2" id="id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_SA_46_2" transform="translate(341.0,331.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_SA_46_2_DISCONNECTOR-closed">
+        <line y2="8" x1="0" x2="8" y1="0"/>
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_SA_46_2_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"/>
+    </g>
+</g>
+        <g class="BREAKER id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_DJ" id="id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_DJ" transform="translate(335.0,480.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_DJ_BREAKER-closed">
+        <rect x="1" width="18" y="1" height="18"/>
+        <line y2="15" x1="10" x2="10" y1="5"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_DJ_BREAKER-open">
+        <rect x="1" width="18" y="1" height="18"/>
+        <line y2="10" x1="5" x2="15" y1="10"/>
+    </g>
+</g>
+        <g class="BREAKER id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_DJ" id="id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_DJ" transform="matrix(0.0,1.0,-1.0,0.0,80.0,260.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_DJ_BREAKER-closed">
+        <rect x="1" width="18" y="1" height="18"/>
+        <line y2="15" x1="10" x2="10" y1="5"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_DJ_BREAKER-open">
+        <rect x="1" width="18" y="1" height="18"/>
+        <line y2="10" x1="5" x2="15" y1="10"/>
+    </g>
+</g>
+        <g class="BREAKER id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_DJ" id="id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_DJ" transform="translate(185.0,145.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_DJ_BREAKER-closed">
+        <rect x="1" width="18" y="1" height="18"/>
+        <line y2="15" x1="10" x2="10" y1="5"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_DJ_BREAKER-open">
+        <rect x="1" width="18" y="1" height="18"/>
+        <line y2="10" x1="5" x2="15" y1="10"/>
+    </g>
+</g>
+        <g class="BREAKER id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_DJ" id="id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_DJ" transform="translate(135.0,480.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_DJ_BREAKER-closed">
+        <rect x="1" width="18" y="1" height="18"/>
+        <line y2="15" x1="10" x2="10" y1="5"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_DJ_BREAKER-open">
+        <rect x="1" width="18" y="1" height="18"/>
+        <line y2="10" x1="5" x2="15" y1="10"/>
+    </g>
+</g>
+        <g class="BREAKER id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_DJ" id="id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_DJ" transform="translate(285.0,480.0)">
+    <g class="closed" id="id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_DJ_BREAKER-closed">
+        <rect x="1" width="18" y="1" height="18"/>
+        <line y2="15" x1="10" x2="10" y1="5"/>
+    </g>
+    <g class="open" id="id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_DJ_BREAKER-open">
+        <rect x="1" width="18" y="1" height="18"/>
+        <line y2="10" x1="5" x2="15" y1="10"/>
+    </g>
+</g>
+        <g class="NODE id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fSwitch0" id="id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fSwitch0" transform="translate(216.0,306.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g class="NODE id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fSwitch1" id="id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fSwitch1" transform="translate(266.0,306.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g class="NODE id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fSwitch0" id="id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fSwitch0" transform="translate(216.0,331.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g class="NODE id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fSwitch1" id="id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fSwitch1" transform="translate(266.0,331.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"/>
+</g>
+        <g id="LABEL_VL_SUBSTATIONP6">
+            <text x="0.0" font-size="12" y="0.0" class="component-label" font-family="Verdana" transform="rotate(0,0,0)">SUBSTATIONP6</text>
+        </g>
+    </g>
+</svg>

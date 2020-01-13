@@ -1,0 +1,410 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" viewBox="-39.374997705221205 -16.041667461395267 344.79164123535156 750.75" width="1463" height="600.5999999999999"><svg xmlns="http://www.w3.org/2000/svg">
+    <style>svg {overflow: auto !important;}
+
+.BUSBAR_SECTION {
+    stroke-width: 3;
+}
+
+.BREAKER {
+    stroke: rgb(0, 0, 255);
+    stroke-width: 2;
+    fill: rgb(255, 255, 255);
+}
+
+.DISCONNECTOR {
+    stroke: rgb(0, 0, 0);
+    stroke-width: 1
+}
+
+.DISCONNECTOR .open{
+    stroke-width: 2
+}
+
+
+.undefined circle{
+    fill: white;
+}
+
+.GENERATOR {
+    stroke: rgb(0, 0, 255);
+    stroke-width: 1;
+    fill: rgb(255, 255, 255);
+}
+
+.LOAD {
+    stroke: rgb(0, 0, 255);
+    stroke-width: 1;
+    fill: rgb(255, 255, 255);
+}
+
+.LOAD_BREAK_SWITCH {
+    stroke: rgb(0, 0, 255);
+    stroke-width: 1;
+    fill: rgb(255, 255, 255);
+}
+
+.NODE {
+    stroke: rgb(0, 0, 0);
+    fill: rgb(0, 0, 0);
+    fill-opacity: 1;
+}
+
+.CAPACITOR {
+    stroke: rgb(0, 0, 255);
+    stroke-width: 1;
+    fill-opacity: 0;
+}
+
+.INDUCTOR {
+    stroke: rgb(0, 0, 255);
+    stroke-width: 1;
+    fill-opacity: 0;
+}
+
+.STATIC_VAR_COMPENSATOR {
+    stroke: rgb(0, 0, 255);
+}
+
+.TWO_WINDINGS_TRANSFORMER {
+    stroke: rgb(0, 0, 255);
+    fill-opacity: 0;
+}
+
+.THREE_WINDINGS_TRANSFORMER {
+    stroke: rgb(0, 0, 255);
+    fill-opacity: 0;
+}
+
+.VSC_CONVERTER_STATION {
+    stroke: rgb(0, 0, 255);
+    font-size: 7.4314661px;
+    line-height: 1.25;
+    font-family: sans-serif;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-feature-settings: normal;
+    text-align: start;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    writing-mode: lr-tb;
+    text-anchor: start;
+    stroke-miterlimit: 4;
+}
+
+.PHASE_SHIFT_TRANSFORMER {
+    stroke: rgb(0, 0, 255);
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-miterlimit: 4;
+    stroke-width: 1;
+    fill: rgb(255, 255, 255);
+}
+
+.wire {
+    stroke-width: 1;
+    fill-opacity: 0;
+}
+
+.grid {
+    stroke: rgb(0,55,0);
+    stroke-width: 1;
+    stroke-dasharray: 1,10;
+}
+
+.component-label {
+    fill: black;
+    color: black;
+    stroke: none;
+    fill-opacity: 1;
+}
+
+.LINE {
+    stroke: rgb(0, 0, 255);
+    stroke-width: 1;
+    fill-opacity: 0;
+}
+ .idSCHEEP7_95_1 {stroke:rgb(128,0,128);}
+ .idSCHEEP7_95_2 {stroke:rgb(128,0,128);}
+.ARROW1_SCHEEY761_95_TWO_UP .arrow-up {stroke: black; fill: black; fill-opacity:1; visibility: visible;}.ARROW1_SCHEEY761_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW1_SCHEEY761_95_TWO_DOWN .arrow-down {stroke: black; fill: black; fill-opacity:1;  visibility: visible;}.ARROW1_SCHEEY761_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_SCHEEY761_95_TWO_UP .arrow-up {stroke: blue; fill: blue; fill-opacity:1; visibility: visible;}.ARROW2_SCHEEY761_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_SCHEEY761_95_TWO_DOWN .arrow-down {stroke: blue; fill: blue; fill-opacity:1;  visibility: visible;}.ARROW2_SCHEEY761_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idSCHEEY761_95_TWO {stroke:rgb(128,0,128);}
+.ARROW1_MARL6L71SCHEE_95_TWO_UP .arrow-up {stroke: black; fill: black; fill-opacity:1; visibility: visible;}.ARROW1_MARL6L71SCHEE_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW1_MARL6L71SCHEE_95_TWO_DOWN .arrow-down {stroke: black; fill: black; fill-opacity:1;  visibility: visible;}.ARROW1_MARL6L71SCHEE_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_MARL6L71SCHEE_95_TWO_UP .arrow-up {stroke: blue; fill: blue; fill-opacity:1; visibility: visible;}.ARROW2_MARL6L71SCHEE_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_MARL6L71SCHEE_95_TWO_DOWN .arrow-down {stroke: blue; fill: blue; fill-opacity:1;  visibility: visible;}.ARROW2_MARL6L71SCHEE_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idMARL6L71SCHEE_95_TWO {stroke:rgb(128,0,128);}
+.ARROW1_MUHLBL71SCHEE_95_TWO_UP .arrow-up {stroke: black; fill: black; fill-opacity:1; visibility: visible;}.ARROW1_MUHLBL71SCHEE_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW1_MUHLBL71SCHEE_95_TWO_DOWN .arrow-down {stroke: black; fill: black; fill-opacity:1;  visibility: visible;}.ARROW1_MUHLBL71SCHEE_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_MUHLBL71SCHEE_95_TWO_UP .arrow-up {stroke: blue; fill: blue; fill-opacity:1; visibility: visible;}.ARROW2_MUHLBL71SCHEE_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_MUHLBL71SCHEE_95_TWO_DOWN .arrow-down {stroke: blue; fill: blue; fill-opacity:1;  visibility: visible;}.ARROW2_MUHLBL71SCHEE_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idMUHLBL71SCHEE_95_TWO {stroke:rgb(128,0,128);}
+.idFICT_95_SCHEEP7_95_6 {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_SCHEEP7_95_6 {stroke:rgb(128,0,128);}
+.idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_1 .open { visibility: visible;}.idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_1 .closed { visibility: hidden;}
+.idFICT_95_SCHEEP7_95_4 {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_SCHEEP7_95_4 {stroke:rgb(128,0,128);}
+.idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_1 .open { visibility: visible;}.idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_1 .closed { visibility: hidden;}
+.idFICT_95_SCHEEP7_95_2 {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_SCHEEP7_95_2 {stroke:rgb(128,0,128);}
+.idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_1 .open { visibility: visible;}.idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_1 .closed { visibility: hidden;}
+.idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_2 .open { visibility: visible;}.idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_2 .closed { visibility: hidden;}
+.idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_2 .open { visibility: visible;}.idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_2 .closed { visibility: hidden;}
+.idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_2 .open { visibility: visible;}.idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_2 .closed { visibility: hidden;}
+.idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_DJ .open { visibility: visible;}.idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_DJ .closed { visibility: hidden;}
+.idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_DJ .open { visibility: visible;}.idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_DJ .closed { visibility: hidden;}
+.idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_DJ .open { visibility: visible;}.idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_DJ .closed { visibility: hidden;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+.wire_SCHEEP7 {stroke:rgb(128,0,128);stroke-width:1;}
+</style>
+    <g>
+        <g class="BUSBAR_SECTION idSCHEEP7_95_1" id="idSCHEEP7_95_1" transform="translate(30.0,310.0)">
+            <line y2="0" x1="0" x2="220.0" y1="0"></line>
+            <text x="-5.0" font-size="8" y="-5.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="SCHEEP7_1_NW_LABEL">1</text>
+            <g class="component-label-tm">
+                <text x="-30.0" font-size="8" y="10.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label tm-u" id="TM_UidSCHEEP7_95_1" style="visibility: hidden;">--- kV</text>
+            </g>
+        </g>
+        <g class="BUSBAR_SECTION idSCHEEP7_95_2" id="idSCHEEP7_95_2" transform="translate(30.0,335.0)">
+            <line y2="0" x1="0" x2="220.0" y1="0"></line>
+            <text x="-5.0" font-size="8" y="-5.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="SCHEEP7_2_NW_LABEL">2</text>
+            <g class="component-label-tm">
+                <text x="-30.0" font-size="8" y="10.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label tm-u" id="TM_UidSCHEEP7_95_2" style="visibility: hidden;">--- kV</text>
+            </g>
+        </g>
+        <g class="TWO_WINDINGS_TRANSFORMER idSCHEEY761_95_TWO" id="idSCHEEY761_95_TWO" transform="translate(133.5,611.0)">
+    <circle r="4" id="idSCHEEY761_95_TWO_TWO_WINDINGS_TRANSFORMER-WINDING1" cx="4" cy="4" stroke="rgb(128,0,128)"></circle>
+
+    <circle r="4" id="idSCHEEY761_95_TWO_TWO_WINDINGS_TRANSFORMER-WINDING2" cx="9" cy="4" stroke="rgb(128,0,128)"></circle>
+<text x="-5.0" font-size="8" y="21.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="SCHEEY761_TWO_S_LABEL">AT761   </text>
+            <g class="component-label-tm"></g>
+        </g>
+        <g class="LINE idMARL6L71SCHEE_95_TWO" id="idMARL6L71SCHEE_95_TWO" transform="translate(60.0,30.0)">
+            <text x="-5.0" font-size="8" y="-5.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="MARL6L71SCHEE_TWO_N_LABEL">MARL61  </text>
+            <g class="component-label-tm"></g>
+        </g>
+        <g class="LINE idMUHLBL71SCHEE_95_TWO" id="idMUHLBL71SCHEE_95_TWO" transform="translate(220.0,30.0)">
+            <text x="-5.0" font-size="8" y="-5.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label" id="MUHLBL71SCHEE_TWO_N_LABEL">MUHLB1  </text>
+            <g class="component-label-tm"></g>
+        </g>
+        <g class="NODE idFICT_95_SCHEEP7_95_6" id="idFICT_95_SCHEEP7_95_6" transform="translate(216.0,276.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"></circle>
+</g>
+        <g class="NODE idFICT_95_SCHEEP7_95_4" id="idFICT_95_SCHEEP7_95_4" transform="translate(56.0,276.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"></circle>
+</g>
+        <g class="NODE idFICT_95_SCHEEP7_95_2" id="idFICT_95_SCHEEP7_95_2" transform="translate(136.0,361.0)">
+    <circle fill-opacity="0" r="4" cx="4" stroke-opacity="0" cy="4"></circle>
+</g>
+        <polyline class="wire wire_SCHEEP7" points="220.0,310.0,220.0,310.0" id="idSCHEEP7_95_Wire0"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="220.0,310.0,220.0,280.0" id="idSCHEEP7_95_Wire1"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="60.0,310.0,60.0,310.0" id="idSCHEEP7_95_Wire2"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="60.0,310.0,60.0,280.0" id="idSCHEEP7_95_Wire3"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="140.0,310.0,140.0,310.0" id="idSCHEEP7_95_Wire4"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="140.0,310.0,140.0,365.0" id="idSCHEEP7_95_Wire5"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="220.0,335.0,220.0,335.0" id="idSCHEEP7_95_Wire6"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="220.0,335.0,220.0,280.0" id="idSCHEEP7_95_Wire7"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="60.0,335.0,60.0,335.0" id="idSCHEEP7_95_Wire8"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="60.0,335.0,60.0,280.0" id="idSCHEEP7_95_Wire9"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="140.0,335.0,140.0,335.0" id="idSCHEEP7_95_Wire10"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="140.0,335.0,140.0,365.0" id="idSCHEEP7_95_Wire11"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="140.0,365.0,140.0,480.0" id="idSCHEEP7_95_Wire12"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="140.0,500.0,140.0,611.0" id="idSCHEEP7_95_Wire13"></polyline>
+        <g class="ARROW1_SCHEEY761_95_TWO_DOWN" id="idSCHEEP7_95_Wire13_ARROW1" transform="matrix(1.0,0.0,0.0,1.0,135.0,515.0)">
+     <g class="arrow-up" id="idSCHEEP7_95_Wire13_ARROW1_ARROW-arrow-up" stroke="rgb(128,0,128)" style="visibility: hidden;">
+        <polygon points="5,0 10,10 0,10"></polygon>
+     </g>
+     <g class="arrow-down" id="idSCHEEP7_95_Wire13_ARROW1_ARROW-arrow-down" stroke="rgb(128,0,128)" style="visibility: hidden;">
+        <polygon points="0,0 10,0 5,10"></polygon>
+     </g>
+<text x="15.0" font-size="8" y="9.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label tm-p" id="ARROW_TM_PidSCHEEY761_95_TWO" style="visibility: hidden;">--- MW</text>
+        </g>
+        <g class="ARROW2_SCHEEY761_95_TWO_DOWN" id="idSCHEEP7_95_Wire13_ARROW2" transform="matrix(1.0,0.0,0.0,1.0,135.0,535.0)">
+     <g class="arrow-up" id="idSCHEEP7_95_Wire13_ARROW2_ARROW-arrow-up" stroke="rgb(128,0,128)" style="visibility: hidden;">
+        <polygon points="5,0 10,10 0,10"></polygon>
+     </g>
+     <g class="arrow-down" id="idSCHEEP7_95_Wire13_ARROW2_ARROW-arrow-down" stroke="rgb(128,0,128)" style="visibility: hidden;">
+        <polygon points="0,0 10,0 5,10"></polygon>
+     </g>
+<text x="15.0" font-size="8" y="9.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label tm-q" id="ARROW_TM_QidSCHEEY761_95_TWO" style="visibility: hidden;">--- MVAr</text>
+        </g>
+        <polyline class="wire wire_SCHEEP7" points="60.0,280.0,60.0,165.0" id="idSCHEEP7_95_Wire14"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="60.0,145.0,60.0,30.0" id="idSCHEEP7_95_Wire15"></polyline>
+        <g class="ARROW1_MARL6L71SCHEE_95_TWO_DOWN" id="idSCHEEP7_95_Wire15_ARROW1" transform="matrix(1.0,0.0,0.0,1.0,55.0,120.0)">
+     <g class="arrow-up" id="idSCHEEP7_95_Wire15_ARROW1_ARROW-arrow-up" transform="rotate(180.0,5.0,5.0)" style="visibility: hidden;">
+        <polygon points="5,0 10,10 0,10"></polygon>
+     </g>
+     <g class="arrow-down" id="idSCHEEP7_95_Wire15_ARROW1_ARROW-arrow-down" transform="rotate(180.0,5.0,5.0)" style="visibility: hidden;">
+        <polygon points="0,0 10,0 5,10"></polygon>
+     </g>
+<text x="15.0" font-size="8" y="9.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label tm-p" id="ARROW_TM_PidMARL6L71SCHEE_95_TWO" style="visibility: hidden;">--- MW</text>
+        </g>
+        <g class="ARROW2_MARL6L71SCHEE_95_TWO_DOWN" id="idSCHEEP7_95_Wire15_ARROW2" transform="matrix(1.0,0.0,0.0,1.0,55.0,100.0)">
+     <g class="arrow-up" id="idSCHEEP7_95_Wire15_ARROW2_ARROW-arrow-up" transform="rotate(180.0,5.0,5.0)" style="visibility: hidden;">
+        <polygon points="5,0 10,10 0,10"></polygon>
+     </g>
+     <g class="arrow-down" id="idSCHEEP7_95_Wire15_ARROW2_ARROW-arrow-down" transform="rotate(180.0,5.0,5.0)" style="visibility: hidden;">
+        <polygon points="0,0 10,0 5,10"></polygon>
+     </g>
+<text x="15.0" font-size="8" y="9.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label tm-q" id="ARROW_TM_QidMARL6L71SCHEE_95_TWO" style="visibility: hidden;">--- MVAr</text>
+        </g>
+        <polyline class="wire wire_SCHEEP7" points="220.0,280.0,220.0,165.0" id="idSCHEEP7_95_Wire16"></polyline>
+        <polyline class="wire wire_SCHEEP7" points="220.0,145.0,220.0,30.0" id="idSCHEEP7_95_Wire17"></polyline>
+        <g class="ARROW1_MUHLBL71SCHEE_95_TWO_DOWN" id="idSCHEEP7_95_Wire17_ARROW1" transform="matrix(1.0,0.0,0.0,1.0,215.0,120.0)">
+     <g class="arrow-up" id="idSCHEEP7_95_Wire17_ARROW1_ARROW-arrow-up" transform="rotate(180.0,5.0,5.0)" style="visibility: hidden;">
+        <polygon points="5,0 10,10 0,10"></polygon>
+     </g>
+     <g class="arrow-down" id="idSCHEEP7_95_Wire17_ARROW1_ARROW-arrow-down" transform="rotate(180.0,5.0,5.0)" style="visibility: hidden;">
+        <polygon points="0,0 10,0 5,10"></polygon>
+     </g>
+<text x="15.0" font-size="8" y="9.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label tm-p" id="ARROW_TM_PidMUHLBL71SCHEE_95_TWO" style="visibility: hidden;">--- MW</text>
+        </g>
+        <g class="ARROW2_MUHLBL71SCHEE_95_TWO_DOWN" id="idSCHEEP7_95_Wire17_ARROW2" transform="matrix(1.0,0.0,0.0,1.0,215.0,100.0)">
+     <g class="arrow-up" id="idSCHEEP7_95_Wire17_ARROW2_ARROW-arrow-up" transform="rotate(180.0,5.0,5.0)" style="visibility: hidden;">
+        <polygon points="5,0 10,10 0,10"></polygon>
+     </g>
+     <g class="arrow-down" id="idSCHEEP7_95_Wire17_ARROW2_ARROW-arrow-down" transform="rotate(180.0,5.0,5.0)" style="visibility: hidden;">
+        <polygon points="0,0 10,0 5,10"></polygon>
+     </g>
+<text x="15.0" font-size="8" y="9.0" transform="rotate(0,0,0)" font-family="Verdana" class="component-label tm-q" id="ARROW_TM_QidMUHLBL71SCHEE_95_TWO" style="visibility: hidden;">--- MVAr</text>
+        </g>
+        <g class="DISCONNECTOR idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_1" id="idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_1" transform="translate(216.0,306.0)">
+    <g class="closed" id="idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_1_DISCONNECTOR-closed">
+         <circle r="6" cx="4" cy="4"></circle> 
+    </g>
+    <g class="open" id="idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_1_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"></line>
+    </g>
+    <g class="undefined" id="idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_1_DISCONNECTOR-undefined">
+        <circle cx="4" r="6" cy="4"></circle>
+        <line y2="8" x1="0" x2="8" y1="0"></line>
+        <line y2="8" x1="8" x2="0" y1="0"></line>
+    </g>
+<g class="component-label-tm"></g>
+        </g>
+        <g class="DISCONNECTOR idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_1" id="idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_1" transform="translate(56.0,306.0)">
+    <g class="closed" id="idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_1_DISCONNECTOR-closed">
+         <circle r="6" cx="4" cy="4"></circle> 
+    </g>
+    <g class="open" id="idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_1_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"></line>
+    </g>
+    <g class="undefined" id="idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_1_DISCONNECTOR-undefined">
+        <circle cx="4" r="6" cy="4"></circle>
+        <line y2="8" x1="0" x2="8" y1="0"></line>
+        <line y2="8" x1="8" x2="0" y1="0"></line>
+    </g>
+<g class="component-label-tm"></g>
+        </g>
+        <g class="DISCONNECTOR idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_1" id="idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_1" transform="translate(136.0,306.0)">
+    <g class="closed" id="idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_1_DISCONNECTOR-closed">
+         <circle r="6" cx="4" cy="4"></circle> 
+    </g>
+    <g class="open" id="idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_1_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"></line>
+    </g>
+    <g class="undefined" id="idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_1_DISCONNECTOR-undefined">
+        <circle cx="4" r="6" cy="4"></circle>
+        <line y2="8" x1="0" x2="8" y1="0"></line>
+        <line y2="8" x1="8" x2="0" y1="0"></line>
+    </g>
+<g class="component-label-tm"></g>
+        </g>
+        <g class="DISCONNECTOR idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_2" id="idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_2" transform="translate(216.0,331.0)">
+    <g class="closed" id="idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_2_DISCONNECTOR-closed">
+         <circle r="6" cx="4" cy="4"></circle> 
+    </g>
+    <g class="open" id="idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_2_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"></line>
+    </g>
+    <g class="undefined" id="idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_SA_46_2_DISCONNECTOR-undefined">
+        <circle cx="4" r="6" cy="4"></circle>
+        <line y2="8" x1="0" x2="8" y1="0"></line>
+        <line y2="8" x1="8" x2="0" y1="0"></line>
+    </g>
+<g class="component-label-tm"></g>
+        </g>
+        <g class="DISCONNECTOR idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_2" id="idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_2" transform="translate(56.0,331.0)">
+    <g class="closed" id="idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_2_DISCONNECTOR-closed">
+         <circle r="6" cx="4" cy="4"></circle> 
+    </g>
+    <g class="open" id="idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_2_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"></line>
+    </g>
+    <g class="undefined" id="idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_SA_46_2_DISCONNECTOR-undefined">
+        <circle cx="4" r="6" cy="4"></circle>
+        <line y2="8" x1="0" x2="8" y1="0"></line>
+        <line y2="8" x1="8" x2="0" y1="0"></line>
+    </g>
+<g class="component-label-tm"></g>
+        </g>
+        <g class="DISCONNECTOR idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_2" id="idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_2" transform="translate(136.0,331.0)">
+    <g class="closed" id="idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_2_DISCONNECTOR-closed">
+         <circle r="6" cx="4" cy="4"></circle> 
+    </g>
+    <g class="open" id="idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_2_DISCONNECTOR-open">
+        <line y2="8" x1="8" x2="0" y1="0"></line>
+    </g>
+    <g class="undefined" id="idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_SA_46_2_DISCONNECTOR-undefined">
+        <circle cx="4" r="6" cy="4"></circle>
+        <line y2="8" x1="0" x2="8" y1="0"></line>
+        <line y2="8" x1="8" x2="0" y1="0"></line>
+    </g>
+<g class="component-label-tm"></g>
+        </g>
+        <g class="BREAKER idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_DJ" id="idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_DJ" transform="translate(130.0,480.0)">
+    <g class="closed" id="idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_DJ_BREAKER-closed">
+        <rect x="1" width="18" y="1" height="18"></rect>
+        <line y2="15" x1="10" x2="10" y1="5"></line>
+    </g>
+    <g class="open" id="idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_DJ_BREAKER-open">
+        <rect x="1" width="18" y="1" height="18"></rect>
+        <line y2="10" x1="5" x2="15" y1="10"></line>
+    </g>
+     <g class="undefined" id="idSCHEEP7_95_SCHEE_32__32__32_7AT761_32__32__32__32_DJ_BREAKER-undefined">
+        <rect x="1" width="18" y="1" height="18"></rect>
+        <line y2="16" x1="4" x2="16" y1="4"></line>
+        <line y2="4" x1="4" x2="16" y1="16"></line>
+    </g> 
+<g class="component-label-tm"></g>
+        </g>
+        <g class="BREAKER idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_DJ" id="idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_DJ" transform="translate(50.0,145.0)">
+    <g class="closed" id="idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_DJ_BREAKER-closed">
+        <rect x="1" width="18" y="1" height="18"></rect>
+        <line y2="15" x1="10" x2="10" y1="5"></line>
+    </g>
+    <g class="open" id="idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_DJ_BREAKER-open">
+        <rect x="1" width="18" y="1" height="18"></rect>
+        <line y2="10" x1="5" x2="15" y1="10"></line>
+    </g>
+     <g class="undefined" id="idSCHEEP7_95_SCHEE_32__32__32_7MARL6_46_1_32__32_DJ_BREAKER-undefined">
+        <rect x="1" width="18" y="1" height="18"></rect>
+        <line y2="16" x1="4" x2="16" y1="4"></line>
+        <line y2="4" x1="4" x2="16" y1="16"></line>
+    </g> 
+<g class="component-label-tm"></g>
+        </g>
+        <g class="BREAKER idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_DJ" id="idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_DJ" transform="translate(210.0,145.0)">
+    <g class="closed" id="idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_DJ_BREAKER-closed">
+        <rect x="1" width="18" y="1" height="18"></rect>
+        <line y2="15" x1="10" x2="10" y1="5"></line>
+    </g>
+    <g class="open" id="idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_DJ_BREAKER-open">
+        <rect x="1" width="18" y="1" height="18"></rect>
+        <line y2="10" x1="5" x2="15" y1="10"></line>
+    </g>
+     <g class="undefined" id="idSCHEEP7_95_SCHEE_32__32__32_7MUHLB_46_1_32__32_DJ_BREAKER-undefined">
+        <rect x="1" width="18" y="1" height="18"></rect>
+        <line y2="16" x1="4" x2="16" y1="4"></line>
+        <line y2="4" x1="4" x2="16" y1="16"></line>
+    </g> 
+<g class="component-label-tm"></g>
+        </g>
+        <g id="LABEL_VL_SCHEEP7">
+            <text x="0.0" font-size="12" y="0.0" class="component-label" font-family="Verdana" transform="rotate(0,0,0)">SCHEEP7</text>
+        </g>
+    </g>
+</svg></svg>

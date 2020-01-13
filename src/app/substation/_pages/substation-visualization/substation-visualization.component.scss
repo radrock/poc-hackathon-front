@@ -1,0 +1,223 @@
+.hackathon
+{
+    &__container
+    {
+        grid-area: main-container;
+        grid-template-columns: repeat(12, 1fr);
+        display: flex;
+        justify-content: center;
+    }
+
+    &__draw
+    {
+        display: flex;
+        justify-content: center;
+        padding: .9375rem 1.25rem;
+        border-radius: 6px;
+        background-color: #FFF;
+        margin: 30px 0;
+        color: #333;
+        box-shadow: 0 1px 4px 0 rgba(0,0,0,.14);
+        position: relative;
+        width: 40%;
+        overflow: hidden;
+    }
+}
+
+.BUSBAR_SECTION {
+  stroke: rgb(0,0,0);
+  stroke-width: 3;
+}
+
+.BREAKER {
+  stroke: rgb(0, 0, 255);
+  stroke-width: 2;
+  fill: rgb(255, 255, 255);
+}
+
+.DISCONNECTOR {
+  stroke: rgb(0, 0, 0);
+  stroke-width: 3
+}
+
+.GENERATOR {
+  stroke: rgb(0, 0, 255);
+  stroke-width: 1;
+  fill: rgb(255, 255, 255);
+}
+
+.LOAD {
+  stroke: rgb(0, 0, 255);
+  stroke-width: 1;
+  fill: rgb(255, 255, 255);
+}
+
+.LOAD_BREAK_SWITCH {
+  stroke: rgb(0, 0, 255);
+  stroke-width: 1;
+  fill: rgb(255, 255, 255);
+}
+
+.NODE {
+  stroke: rgb(0, 0, 0);
+  fill: rgb(0, 0, 0);
+  fill-opacity: 1;
+}
+
+.CAPACITOR {
+  stroke: rgb(0, 0, 255);
+  stroke-width: 1;
+  fill-opacity: 0;
+}
+
+.INDUCTOR {
+  stroke: rgb(0, 0, 255);
+  stroke-width: 1;
+  fill-opacity: 0;
+}
+
+.STATIC_VAR_COMPENSATOR {
+  stroke: rgb(0, 0, 255);
+}
+
+.TWO_WINDINGS_TRANSFORMER {
+  stroke: rgb(0, 0, 255);
+  fill-opacity: 0;
+}
+
+.THREE_WINDINGS_TRANSFORMER {
+  stroke: rgb(0, 0, 255);
+  fill-opacity: 0;
+}
+
+.VSC_CONVERTER_STATION {
+  stroke: rgb(0, 0, 255);
+  font-size: 7.4314661px;
+  line-height: 1.25;
+  font-family: sans-serif;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-feature-settings: normal;
+  text-align: start;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  stroke-miterlimit: 4;
+}
+
+.PHASE_SHIFT_TRANSFORMER {
+  stroke: rgb(0, 0, 255);
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-width: 1;
+  fill: rgb(255, 255, 255);
+}
+
+.wire {
+  stroke: rgb(200,0,0);
+  stroke-width: 1;
+  fill-opacity: 0;
+}
+
+.grid {
+  stroke: rgb(0,55,0);
+  stroke-width: 1;
+  stroke-dasharray: 1,10;
+}
+
+.component-label {
+  fill: black;
+  color: black;
+  stroke: none;
+  fill-opacity: 1;
+}
+
+.LINE {
+  stroke: rgb(0, 0, 255);
+  stroke-width: 1;
+  fill-opacity: 0;
+}
+.id95_1_46_1 {stroke:rgb(34, 139, 34);}
+.id95_1_46_2 {stroke:rgb(34, 139, 34);}
+.id95_2_46_1 {stroke:rgb(34, 139, 34);}
+.id95_2_46_2 {stroke:rgb(34, 139, 34);}
+.ARROW1_B_46_CO6L61SUBSTATION_95_TWO_UP .arrow-up {stroke: black; fill: black; fill-opacity:1; visibility: visible;}.ARROW1_B_46_CO6L61SUBSTATION_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW1_B_46_CO6L61SUBSTATION_95_TWO_DOWN .arrow-down {stroke: black; fill: black; fill-opacity:1;  visibility: visible;}.ARROW1_B_46_CO6L61SUBSTATION_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_B_46_CO6L61SUBSTATION_95_TWO_UP .arrow-up {stroke: blue; fill: blue; fill-opacity:1; visibility: visible;}.ARROW2_B_46_CO6L61SUBSTATION_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_B_46_CO6L61SUBSTATION_95_TWO_DOWN .arrow-down {stroke: blue; fill: blue; fill-opacity:1;  visibility: visible;}.ARROW2_B_46_CO6L61SUBSTATION_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idB_46_CO6L61SUBSTATION_95_TWO {stroke:rgb(34, 139, 34);}
+.ARROW1_ECHINL61SUBSTATION_95_TWO_UP .arrow-up {stroke: black; fill: black; fill-opacity:1; visibility: visible;}.ARROW1_ECHINL61SUBSTATION_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW1_ECHINL61SUBSTATION_95_TWO_DOWN .arrow-down {stroke: black; fill: black; fill-opacity:1;  visibility: visible;}.ARROW1_ECHINL61SUBSTATION_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_ECHINL61SUBSTATION_95_TWO_UP .arrow-up {stroke: blue; fill: blue; fill-opacity:1; visibility: visible;}.ARROW2_ECHINL61SUBSTATION_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_ECHINL61SUBSTATION_95_TWO_DOWN .arrow-down {stroke: blue; fill: blue; fill-opacity:1;  visibility: visible;}.ARROW2_ECHINL61SUBSTATION_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idECHINL61SUBSTATION_95_TWO {stroke:rgb(34, 139, 34);}
+.ARROW1_SUBSTATIONY641_95_TWO_UP .arrow-up {stroke: black; fill: black; fill-opacity:1; visibility: visible;}.ARROW1_SUBSTATIONY641_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW1_SUBSTATIONY641_95_TWO_DOWN .arrow-down {stroke: black; fill: black; fill-opacity:1;  visibility: visible;}.ARROW1_SUBSTATIONY641_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_SUBSTATIONY641_95_TWO_UP .arrow-up {stroke: blue; fill: blue; fill-opacity:1; visibility: visible;}.ARROW2_SUBSTATIONY641_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_SUBSTATIONY641_95_TWO_DOWN .arrow-down {stroke: blue; fill: blue; fill-opacity:1;  visibility: visible;}.ARROW2_SUBSTATIONY641_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idSUBSTATIONY641_95_TWO {stroke:rgb(34, 139, 34);}
+.ARROW1_SUBSTATIONY642_95_TWO_UP .arrow-up {stroke: black; fill: black; fill-opacity:1; visibility: visible;}.ARROW1_SUBSTATIONY642_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW1_SUBSTATIONY642_95_TWO_DOWN .arrow-down {stroke: black; fill: black; fill-opacity:1;  visibility: visible;}.ARROW1_SUBSTATIONY642_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_SUBSTATIONY642_95_TWO_UP .arrow-up {stroke: blue; fill: blue; fill-opacity:1; visibility: visible;}.ARROW2_SUBSTATIONY642_95_TWO_UP .arrow-down { stroke-opacity:0; fill-opacity:0; visibility: hidden;}.ARROW2_SUBSTATIONY642_95_TWO_DOWN .arrow-down {stroke: blue; fill: blue; fill-opacity:1;  visibility: visible;}.ARROW2_SUBSTATIONY642_95_TWO_DOWN .arrow-up { stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idSUBSTATIONY642_95_TWO {stroke:rgb(34, 139, 34);}
+.idFICT_95_95_10 {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_95_10 {stroke:rgb(34, 139, 34);}
+.id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_SA_46_1 .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_SA_46_1 .closed { visibility: visible;}
+.idFICT_95_95_8 {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_95_8 {stroke:rgb(34, 139, 34);}
+.id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_SA_46_1 .open { visibility: visible;}.id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_SA_46_1 .closed { visibility: hidden;}
+.id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12 .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12 .closed { visibility: visible;}
+.id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_1 .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_1 .closed { visibility: visible;}
+.idFICT_95_95_12 {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_95_12 {stroke:rgb(34, 139, 34);}
+.id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_SA_46_1 .open { visibility: visible;}.id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_SA_46_1 .closed { visibility: hidden;}
+.idFICT_95_95_4 {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_95_4 {stroke:rgb(34, 139, 34);}
+.id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_SA_46_1 .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_SA_46_1 .closed { visibility: visible;}
+.id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_2 .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_2 .closed { visibility: visible;}
+.id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_SA_46_2 .open { visibility: visible;}.id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_SA_46_2 .closed { visibility: hidden;}
+.id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_SA_46_2 .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_SA_46_2 .closed { visibility: visible;}
+.id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12 .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12 .closed { visibility: visible;}
+.id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_SA_46_2 .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_SA_46_2 .closed { visibility: visible;}
+.id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_SA_46_2 .open { visibility: visible;}.id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_SA_46_2 .closed { visibility: hidden;}
+.id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_DJ .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6B_46_CO6_46_1_32__32_DJ .closed { visibility: visible;}
+.id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_DJ .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_DJ .closed { visibility: visible;}
+.id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_DJ .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6ECHIN_46_1_32__32_DJ .closed { visibility: visible;}
+.id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_DJ .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6TR_1_32__32__32__32_DJ .closed { visibility: visible;}
+.id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_DJ .open { visibility: hidden;}.id95_SUBSTATION_32__32__32_6TR_2_32__32__32__32_DJ .closed { visibility: visible;}
+.idFICT_95_95_95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_1Fictif {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_95_95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_1Fictif {stroke:rgb(34, 139, 34);}
+.idFICT_95_95_95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_2Fictif {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_95_95_SUBSTATION_32__32__32_6COUPL_46_1_32__32_SA_46_2Fictif {stroke:rgb(34, 139, 34);}
+.id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fSwitch0 {stroke-opacity:0; fill-opacity:0; visibility: hidden;}
+.idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fNode0 {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fNode0 {stroke:rgb(34, 139, 34);}
+.id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fSwitch1 {stroke-opacity:0; fill-opacity:0; visibility: hidden;}
+.idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fNode1 {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_1_46_12fNode1 {stroke:rgb(34, 139, 34);}
+.id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fSwitch0 {stroke-opacity:0; fill-opacity:0; visibility: hidden;}
+.idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fNode0 {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fNode0 {stroke:rgb(34, 139, 34);}
+.id95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fSwitch1 {stroke-opacity:0; fill-opacity:0; visibility: hidden;}
+.idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fNode1 {stroke-opacity:0; fill-opacity:0; visibility: hidden;} .idFICT_95_95_95_SUBSTATION_32__32__32_6SEC_46__46_12_32__32_SS_46_2_46_12fNode1 {stroke:rgb(34, 139, 34);}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
+.wire_SUBSTATIONP6 {stroke:rgb(34, 139, 34);stroke-width:1;}
