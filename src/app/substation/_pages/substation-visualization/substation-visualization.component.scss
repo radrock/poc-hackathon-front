@@ -5,6 +5,9 @@
         grid-area: main-container;
         grid-template-columns: repeat(12, 1fr);
         display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
         justify-content: center;
     }
 
@@ -21,6 +24,11 @@
         position: relative;
         width: 40%;
         overflow: hidden;
+
+        &-label
+        {
+            font-weight: bold;
+        }
     }
 }
 

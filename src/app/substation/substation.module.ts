@@ -6,6 +6,7 @@ import {BrowserModule} from '@angular/platform-browser';
 import {RouterModule} from '@angular/router';
 import { AppSubstationRoutingModule } from './app-substation-routing.module';
 import { SubstationVisualizationComponent} from './_pages/substation-visualization/substation-visualization.component';
+import {ServerSentEventService} from './_services/server-sent-event.service';
 
 @NgModule({
   declarations:
@@ -20,6 +21,10 @@ import { SubstationVisualizationComponent} from './_pages/substation-visualizati
       CommonModule,
       RouterModule,
       AppSubstationRoutingModule
+  ],
+  providers:
+  [
+      ServerSentEventService
   ],
   exports:
   [
